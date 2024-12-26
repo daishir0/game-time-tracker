@@ -80,7 +80,7 @@ chmod 755 /path/to/your/web/directory/game-time-tracker
 chmod 666 /path/to/your/web/directory/game-time-tracker/timer_state.json
 ```
 
-4. WebサーバーGgApache/Nginx)の設定を行います
+4. Webサーバー(Apache/Nginx)の設定を行います
 
 ## 使い方
 1. Webブラウザからアプリケーションにアクセス
