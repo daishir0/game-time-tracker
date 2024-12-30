@@ -228,6 +228,10 @@ function calculateTotalMinutes($sessions) {
         </div>
     </div>
 
+    <footer class="text-center mt-4">
+        <p>This game timer is developed by <a href="https://github.com/daishir0/game-time-tracker">daishir0</a>.</p>
+    </footer>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <script>
         let isRunning = <?php echo $state['is_running'] ? 'true' : 'false'; ?>;
