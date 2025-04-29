@@ -228,19 +228,6 @@ function calculateTotalMinutes($sessions) {
         </div>
     </div>
 
-<hr>
-<pre>
-■きまり
-１. Chromebook、iPhoneは、カゴにいれておく
-　これを忘れることを防ぐために、かりんの部屋に紙を貼っておく（かりん自身の工夫）
-２. お食事するカウンターで座ってあつかう。
-３. 開始・終了時は、かりんタイマーをスタート、ストップする。
-４. 画面を見るもの（Chromebook、iPhone、Switch、YouTubeなど）は、
-　平日1時間
-　休日はAM1時間、PM1時間、おるすばん（二人がいない時）時間に1時間
-５．連絡をしていなかったら、次の日はお休み
-６．スライドを使うなどの、お友達とのチャットもタイマーを動かすこと(2025.1.5追加）
-</pre>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <script>
